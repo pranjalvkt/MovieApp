@@ -1,0 +1,80 @@
+{
+  "user": [
+    {
+      "username": "user@gmail.com",
+      "id": 1
+    },
+    {
+      "username": "abc@gmail.com",
+      "id": 2
+    }
+  ],
+  "admin": [
+    {
+      "newAdmin": "",
+      "id": 1
+    },
+    {
+      "username": "newAdmin@gmail.com",
+      "id": 2
+    },
+    {
+      "username": "new@gmail.com",
+      "id": 3
+    },
+    {
+      "username": "user@gmail.com",
+      "id": 4
+    },
+    {
+      "username": "hello@gmail.com",
+      "id": 5
+    },
+    {
+      "username": "abc@gmail.com",
+      "id": 6
+    }
+  ],
+  "movies": [
+    {
+      "Title": "Guardians of the Galaxy Vol. 1",
+      "Released": "12",
+      "id": 2
+    },
+    {
+      "Title": "Guardians of the Galaxy Vol. 2",
+      "Released": "12",
+      "id": 3
+    },
+    {
+      "Title": "Captain America",
+      "Released": "1",
+      "id": 4
+    },
+    {
+      "Title": "End game",
+      "Released": "19",
+      "id": 6
+    },
+    {
+      "Title": "Avengers",
+      "Released": "2",
+      "id": 7
+    },
+    {
+      "Title": "Black Widow",
+      "Released": "14",
+      "id": 9
+    },
+    {
+      "Title": "Captain America Winter Soldier",
+      "Released": "20",
+      "id": 10
+    },
+    {
+      "Title": "abc",
+      "Released": "222",
+      "id": 11
+    }
+  ]
+}

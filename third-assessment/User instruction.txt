@@ -1,0 +1,7 @@
+1-- for username --> use "new@gmail.com" or create new one using sign-up page
+2-- for password--> use "admin" (always)
+3-- for any changes to be reflected in dashboard --> first navigate to home and then go back to dashboard
+4-- sorting is only done in home page
+5- please run the "MovieServer" as well (maybe post will be different on your machine, so just have a look)
+6-- Only username is being taken in signup, because admin is taken password by default
+7-- After signup, move to login page, it will not be redirected automatically
